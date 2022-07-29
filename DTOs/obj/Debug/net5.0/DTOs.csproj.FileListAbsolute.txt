@@ -1,0 +1,12 @@
+C:\Users\melek\Desktop\BookStore\DTOs\bin\Debug\net5.0\DTOs.deps.json
+C:\Users\melek\Desktop\BookStore\DTOs\bin\Debug\net5.0\DTOs.dll
+C:\Users\melek\Desktop\BookStore\DTOs\bin\Debug\net5.0\ref\DTOs.dll
+C:\Users\melek\Desktop\BookStore\DTOs\bin\Debug\net5.0\DTOs.pdb
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.AssemblyInfo.cs
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.dll
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\ref\DTOs.dll
+C:\Users\melek\Desktop\BookStore\DTOs\obj\Debug\net5.0\DTOs.pdb
